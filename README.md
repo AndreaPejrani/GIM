@@ -3,17 +3,17 @@ Corso di grafica in movimento, SUPSI 2024
 
 ### Esercizio 1A
 
-https://andreapejrani.github.io/GIM/esercizio_1a/Acceso_Spento_2.html  - ACCESO E SPENTO
-https://andreapejrani.github.io/GIM/esercizio_1a/Acceso_Spento_3.html
+https://andreapejrani.github.io/GIM/Esercizio_1a/Acceso_Spento_2.html  - ACCESO E SPENTO
+https://andreapejrani.github.io/GIM/Esercizio_1a/Acceso_Spento_3.html
 
-https://andreapejrani.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html  - APERTO E CHIUSO
-https://andreapejrani.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
+https://andreapejrani.github.io/GIM/Esercizio_1a/Aperto_Chiuso_2.html  - APERTO E CHIUSO
+https://andreapejrani.github.io/GIM/Esercizio_1a/Aperto_Chiuso_3.html
 
-https://andreapejrani.github.io/GIM/Esercizio_1A/rotazione_2.html  - ROTAZIONE
-https://andreapejrani.github.io/GIM/Esercizio_1A/rotazione_3.html
+https://andreapejrani.github.io/GIM/Esercizio_1a/Rotazione_2.html  - ROTAZIONE
+https://andreapejrani.github.io/GIM/Esercizio_1a/Rotazione_3.html
 
-https://andreapejrani.github.io/GIM/Esercizio_1A/spostamento_2.html  - SPOSTAMENTO
-https://andreapejrani.github.io/GIM/Esercizio_1A/spostamento_3.html
+https://andreapejrani.github.io/GIM/Esercizio_1a/Spostamento_2.html  - SPOSTAMENTO
+https://andreapejrani.github.io/GIM/Esercizio_1a/Spostamento_3.html
 
 ### Esercizio 1B
 
