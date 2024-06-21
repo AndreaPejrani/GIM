@@ -21,6 +21,8 @@ https://andreapejrani.github.io/GIM/Esercizio_1C
 
 ### Esercizio 2
 
+https://andreapejrani.github.io/GIM/Esercizio_2/return.html
+
 ### Esercizio 3A
 
 ### Esercizio 3B
