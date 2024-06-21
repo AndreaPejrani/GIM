@@ -3,8 +3,8 @@ Corso di grafica in movimento, SUPSI 2024
 
 ### Esercizio 1A
 
-https://andreapejrani.github.io/GIM/Esercizio_1A/acceso_2.html  - ACCESO E SPENTO
-https://andreapejrani.github.io/GIM/Esercizio_1A/acceso_3.html
+https://andreapejrani.github.io/GIM/Esercizio_1A/acceso_spento_2.html  - ACCESO E SPENTO
+https://andreapejrani.github.io/GIM/Esercizio_1A/acceso_spento_3.html
 
 https://andreapejrani.github.io/GIM/Esercizio_1A/aperto_chiuso_2.html  - APERTO E CHIUSO
 https://andreapejrani.github.io/GIM/Esercizio_1A/aperto_chiuso_3.html
