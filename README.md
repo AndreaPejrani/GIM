@@ -17,9 +17,11 @@ https://andreapejrani.github.io/GIM/Esercizio_1B/Esercizio_1B.html
 
 ### Esercizio 1C
 
-https://andreapejrani.github.io/GIM/Esercizio_1C/Esercizio_1C
+https://andreapejrani.github.io/GIM/Esercizio_1C
 
 ### Esercizio 2
+
+https://andreapejrani.github.io/GIM/Esercizio_2/return.html
 
 ### Esercizio 3A
 
