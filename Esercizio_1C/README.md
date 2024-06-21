@@ -1,18 +1,1 @@
-# Esercizio 1C
-Lettura
-
-## Brief
-Leggere il testo di Kleist e scrivere un commento e publiccarlo nel file README.md.
-
-## Restrizioni
-- 500-1000 caratteri
-
-## Consegna
-Pubblicare il commento sulla piattaforma GitHub nel file README.md.
-
-## Struttura cartella
-```
-GIM/esercizio_1C
-	README.md
-``` 
-
+La conversazione tra il narratore e il signor C... contenuta in questa parte di "Nel 1801" di Heinrich von Kleist approfondisce temi molto profondi riguardanti l'arte e la grazia umana. Kleist implica che la grazia artistica potrebbe essere perfezionata attraverso l'artificio meccanico (tanto quanto attraverso la perfezione fisica umana) confrontando le marionette e la danza umana. Questo confronto solleva interrogativi sulla natura dell’arte, della creatività e persino sull’essenza dell’umanità, sfidando le norme tradizionali che circondano l’originalità e la bellezza. Anche nelle sue forme più tecnologiche o meccaniche, sembra che Kleist creda che l’arte possa ancora contenere una profonda espressione umana: suggerendo una bellezza ben oltre ciò che può essere raggiunto attraverso la mera ingegnosità tecnica.
