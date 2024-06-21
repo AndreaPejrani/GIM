@@ -16,19 +16,19 @@ https://andreapejrani.github.io/GIM/esercizio_1A/acceso_spento_3.html
 
 ### Esercizio 1B
 
-https://andreapejrani.github.io/GIM/Esercizio_1B/Esercizio_1B.html
+https://andreapejrani.github.io/GIM/Esercizio_1B/Esercizio_1B.html  - DITTICO INTERATTIVO
 
 ### Esercizio 1C
 
-https://andreapejrani.github.io/GIM/Esercizio_1C
+https://andreapejrani.github.io/GIM/Esercizio_1C  - COMMENTO
 
 ### Esercizio 2
 
-https://andreapejrani.github.io/GIM/Esercizio_2/return.html
+https://andreapejrani.github.io/GIM/Esercizio_2/return.html  - TIPOGRAFIA ESPRESSIVA
 
 ### Esercizio 3A
 
-https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
+https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html  - OROLOGIO
 
 ### Esercizio 3B
 
