@@ -32,6 +32,6 @@ https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
 
 ### Esercizio 3B
 
-https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
-https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
-https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
+https://andreapejrani.github.io/GIM/Esercizio_3B/Neve/index.html
+https://andreapejrani.github.io/GIM/Esercizio_3B/Pioggia/index.html
+https://andreapejrani.github.io/GIM/Esercizio_3B/Pong/index.html
