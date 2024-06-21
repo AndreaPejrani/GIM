@@ -25,6 +25,6 @@ https://andreapejrani.github.io/GIM/Esercizio_2/return.html
 
 ### Esercizio 3A
 
-https://andreapejrani.github.io/GIM//Esercizio_3A/orologio_personale/index.html
+https://andreapejrani.github.io/GIM/Esercizio_3A/orologio_personale/index.html
 
 ### Esercizio 3B
